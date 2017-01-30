@@ -185,6 +185,18 @@
         <string>sharing</string>
         <string>with</string>
     </array>
+
+	<key>BBLMKeywordPatterns</key>
+	<array>
+		<dict>
+			<key>RunKind</key>
+			<string>com.barebones.bblm.variable</string>
+			<key>Pattern</key>
+			<string>[a-z0-9]*__c</string>
+		</dict>
+
+	</array>
+
 	
 	<!-- You must specify the character set for
              keywords and identifiers. Substitute your own:  -->

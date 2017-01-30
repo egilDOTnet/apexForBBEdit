@@ -5,3 +5,5 @@ BBEdit supports syntax colouring but they've *still* not supported Apex. Since i
 
 Documentation for building these plist files is here:
 http://www.barebones.com/support/develop/clm.html#StringBasedPatterns
+
+- All custom objects are now idenified as keywords
