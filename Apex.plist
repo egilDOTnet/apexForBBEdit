@@ -162,6 +162,16 @@
 	<key>BBLMPredefinedNameList</key>
     <array>
 		<string>PageReference</string>
+		<string>Opportunity</string>
+		<string>Account</string>
+		<string>Lead</string>
+		<string>Campaign</string>
+		<string>Order</string>
+		<string>OpportunityLineItem</string>
+		<string>Product2</string>
+        <string>Order</string>
+		<string>Contact</string>
+		<string>[a-zA-Z0-9]*__c</string>
 		<string>Integer</string>
 		<string>String</string>
         <string>after</string>
