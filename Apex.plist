@@ -195,13 +195,16 @@
         <string>with</string>
     </array>
 
+    <!-- This part lables any custom object of field as a predefined name based
+         on the fact that it ends with an __c. Thanks to BBEdit support
+         for the help with this bit. -->
 	<key>BBLMKeywordPatterns</key>
 	<array>
 		<dict>
 			<key>RunKind</key>
 			<string>com.barebones.bblm.variable</string>
 			<key>Pattern</key>
-			<string>[a-z0-9]*__c</string>
+			<string>[a-z0-9_-]*__c</string>
 		</dict>
 
 	</array>
