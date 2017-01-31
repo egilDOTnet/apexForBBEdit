@@ -161,30 +161,37 @@
 	</array>
 	<key>BBLMPredefinedNameList</key>
     <array>
-		<string>PageReference</string>
-		<string>Opportunity</string>
 		<string>Account</string>
-		<string>Lead</string>
-		<string>Campaign</string>
-		<string>Order</string>
-		<string>OpportunityLineItem</string>
-		<string>OpportunityLineItem</string>
-		<string>PricebookEntry</string>
-		<string>Pricebook2</string>
-        <string>Order</string>
-		<string>Contact</string>
-		<string>[a-zA-Z0-9]*__c</string>
-		<string>Integer</string>
-		<string>String</string>
+		<string>AccountContactRole</string>
+		<string>AccountPartner</string>
         <string>after</string>
         <string>before</string>
+		<string>Campaign</string>
+		<string>Case</string>
+		<string>Contact</string>
         <string>count</string>
         <string>excludes</string>
         <string>first</string>
         <string>includes</string>
+		<string>Integer</string>
         <string>last</string>
+		<string>Lead</string>
+		<string>Opportunity</string>
+		<string>OpportunityContactRole</string>
+		<string>OpportunityLineItem</string>
         <string>order</string>
+		<string>Order</string>
+        <string>Order</string>
+		<string>PageReference</string>
+        <string>Partner</string>
+		<string>Pricebook2</string>
+		<string>PricebookEntry</string>
         <string>sharing</string>
+		<string>String</string>
+        <string>Task</string>
+        <string>Territory</string>
+        <string>Topic</string>
+		<string>User</string>
         <string>with</string>
     </array>
 
