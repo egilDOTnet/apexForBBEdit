@@ -9,3 +9,5 @@ http://www.barebones.com/support/develop/clm.html#StringBasedPatterns
 - All custom objects are now idenified as keywords
 - Thanks to BBEdit support for the help with that
 - Custom fields that are only on Person Accounts will now be highlighted as well (these end in __pc) using a single regex
+- Custom fields that end in an __r (indicating a relationship through a lookup field) are now syntax coloured as keywords
+- Line comments are now properly supported after an oversight on my part
