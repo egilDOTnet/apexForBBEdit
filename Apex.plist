@@ -168,6 +168,7 @@
 		<string>AccountPartner</string>
 		<string>AccountPartnerId</string>
         <string>after</string>
+        <string>Boolean</string>
         <string>before</string>
 		<string>Campaign</string>
 		<string>CampaignId</string>
